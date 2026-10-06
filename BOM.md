@@ -20,7 +20,7 @@
 | [Blue OLED I2C Display (SSD1306 with Pre-soldered headers)](https://core-electronics.com.au/ssd1306-oled-white-pre-soldered.html) | Screen to display things | 1 | $4.69 | $4.69 | [Core Electronics](https://core-electronics.com.au/ssd1306-oled-white-pre-soldered.html) |
 | [Seeed Studio XIAO ESP32-C3](https://core-electronics.com.au/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface.html) | The main computer | 1 | $7.46 | $7.46 | [Core Electronics](https://core-electronics.com.au/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface.html) |
 | **Parts subtotal** | — | — | — | **$27.74** | — |
-| **Tax & shipping** | — | — | — | **$6.25** | — |
-| **Total** | — | — | — | **$33.99** | — |
+| **Tax & shipping** | — | — | — | **$4.38** | — |
+| **Total** | — | — | — | **$32.12** | — |
 
-**$3.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.12 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
