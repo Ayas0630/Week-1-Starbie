@@ -1,7 +1,7 @@
 # Week-1-Starbie
 Starbie for week 1
 I made a starbie thing.
-I didnt like the shape so it is different.
+I didn't like the shape of the as it was quite hard and i am lazy so it is different.
 Here are all of my images.:
 <img width="1020" height="355" alt="Screenshot 2026-10-06 153235" src="https://github.com/user-attachments/assets/15c44bdd-e6cd-4504-baa4-89e2766a81ed" />
 <img width="1231" height="756" alt="Screenshot 2026-10-06 155604" src="https://github.com/user-attachments/assets/0d604651-f289-48b6-9f09-7c7a2c40acbd" />
